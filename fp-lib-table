@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "tatacon_connectors")(type "KiCad")(uri "${KIPRJMOD}/lib/tatacon_connectors")(options "")(descr ""))
   (lib (name "RP2040-Zero-Kicad")(type "KiCad")(uri "${KIPRJMOD}/lib/RP2040-Zero-Kicad")(options "")(descr ""))
+  (lib (name "exentio_art")(type "KiCad")(uri "${KIPRJMOD}/lib/exentio_art")(options "")(descr ""))
 )
